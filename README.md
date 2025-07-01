@@ -1,4 +1,3 @@
-# plp-AI-Solution
 # AI in Software Engineering – Week 4 Assignment  
 **Theme:** Building Intelligent Software Solutions    
 **Course:** AI and Machine Learning  with power learn project
@@ -10,6 +9,10 @@
 This repository contains all code, notebooks, and documentation for the Week 4 assignment on AI in Software Engineering. The project showcases practical applications of AI tools to enhance software development workflows, including code completion, automated testing, and predictive analytics.
 
 ---
+## Tools & Resources
+AI Tools: GitHub Copilot, Testim.io, Google Colab.
+Datasets: Kaggle, GitHub Issues.
+Libraries: Scikit-learn, Pandas, Selenium
 
 ## 🗂️ Contents
 
