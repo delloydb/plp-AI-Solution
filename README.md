@@ -1,9 +1,7 @@
 # plp-AI-Solution
 # AI in Software Engineering – Week 4 Assignment  
-**Theme:** Building Intelligent Software Solutions  
-**Author:** [Your Name]  
-**Institution:** University of Nairobi  
-**Course:** AI and Machine Learning  
+**Theme:** Building Intelligent Software Solutions    
+**Course:** AI and Machine Learning  with power learn project
 
 ---
 
